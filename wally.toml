@@ -1,0 +1,13 @@
+[package]
+name = "yadbro/profileservice"
+description = "A fork of MadStudioRoblox/ProfileService"
+version = "1.0.0"
+license = "MIT OR Apache-2.0"
+authors = [
+	"loleris (https://github.com/LM-loleris)",
+	"YadBro (https://github.com/YadBro)"
+]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "server"
+include = ["src", "src/**", "wally.toml", "wally.lock", "default.project.json"]
+exclude = ["**"]
